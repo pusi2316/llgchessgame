@@ -1,5 +1,5 @@
 {
     "chesshub": {
-        "db": "mongodb://localhost:27017/test"
+        "db": "mongodb+srv://puschmann2:psw1234@cluster0.0xep1bs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     }
 }
